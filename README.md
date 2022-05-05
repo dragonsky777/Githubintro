@@ -5,3 +5,5 @@ pears
 lemons
 bread
 sardines
+cucumbers
+raddishes
