@@ -7,3 +7,4 @@ bread
 sardines
 cucumbers
 raddishes
+carrots
