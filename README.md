@@ -1,5 +1,6 @@
-# Github intro
-My first repo
+# Shopping list
+kiwi
 Apple
 pears
 lemons
+bread
